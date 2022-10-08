@@ -1,0 +1,4 @@
+Dependencies for Project 'LAB07', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6160000::V6.16::ARMCLANG
+F (.\LucasKelley_Lab07.s)(0x6277F733)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1" -I ../LPC4088-IC:/Users/optim/AppData/Local/Arm/Packs/Keil/LPC4000_DFP/2.2.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"CORE_M4 SETA 1"-o ./objects/lucaskelley_lab07.o)
+F (..\LPC4088\startup_LPC407x_8x_177x_8x.s)(0x4FBA628E)(--target=arm-arm-none-eabi -mcpu=cortex-m4 -mfpu=fpv4-sp-d16 -mfloat-abi=hard -masm=auto -c-gdwarf-4 -Wa,armasm,--pd,"__EVAL SETA 1" -I ../LPC4088-IC:/Users/optim/AppData/Local/Arm/Packs/Keil/LPC4000_DFP/2.2.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 536" -Wa,armasm,--pd,"CORE_M4 SETA 1"-o ./objects/startup_lpc407x_8x_177x_8x.o)
